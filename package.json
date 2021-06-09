@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mqtt": "^4.2.6",
+    "serialport": "^9.1.0",
+    "yargs": "^17.0.1"
+  }
+}
